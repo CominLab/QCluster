@@ -36,3 +36,8 @@ M.Comin, A. Leoni, M. Schimd
 "QCluster: Extending Alignment-free Measures with Quality Values for Reads Clustering",
 Proceedings of the 14th Workshop on Algorithms in Bioinformatics (WABI) 2014.
 Lecture Notes in BIoinformatics (LNBI) 2014, 8701, pp. 1-13. 
+
+M. Comin, A. Leoni, M. Schimd
+"Clustering of reads with alignment-free measures and quality values",
+In BMC Algorithms for Molecular Biology 2015, 10:4
+
